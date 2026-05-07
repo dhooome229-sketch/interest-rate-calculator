@@ -2,7 +2,7 @@
   "name": "interest-rate-calculator",
   "version": "1.0.0",
   "description": "Interest Rate Calculator Project",
-  "main": "src/script.js",
+  "main": "script.js",
   "scripts": {
     "test": "jasmine",
     "build": "webpack"

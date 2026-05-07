@@ -1,4 +1,4 @@
-const calculate = require('../src/script');
+const calculate = require('../script');
 
 describe("Interest Rate Calculator", function() {
   
